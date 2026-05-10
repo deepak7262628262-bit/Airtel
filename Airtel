@@ -34,5 +34,11 @@
         "key": "Airtet4",
         "expirydate": "09-06-2026",
         "Allowoffline": false
+    },
+{
+        "device_id": "fb2671b061b54468",
+        "key": "Airtel5",
+        "expirydate": "10-06-2026",
+        "Allowoffline": false
     }
 ]
