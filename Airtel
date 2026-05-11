@@ -41,10 +41,4 @@
         "expirydate": "10-06-2026",
         "Allowoffline": false
     },
-{
-        "device_id": "c03e67a930e8eef7",
-        "key": "Airtel6",
-        "expirydate": "11-06-2026",
-        "Allowoffline": false
-    }
 ]
