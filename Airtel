@@ -14,31 +14,31 @@
     {
         "device_id": "7cd677be310cf510",
         "key": "Airtel1",
-        "expirydate": "05-07-2026",
+        "expirydate": "05-08-2026",
         "Allowoffline": false
     },
 {
         "device_id": "d1563130431260be",
         "key": "Airtel2",
-        "expirydate": "07-06-2026",
+        "expirydate": "07-08-2026",
         "Allowoffline": false
     },
 {
         "device_id": "d1f3d3cab235e794",
         "key": "Airtel3",
-        "expirydate": "07-06-2026",
+        "expirydate": "07-08-2026",
         "Allowoffline": false
     },
     {
         "device_id": "9769cab0e423b800",
         "key": "Airtet4",
-        "expirydate": "09-06-2026",
+        "expirydate": "09-08-2026",
         "Allowoffline": false
     },
 {
         "device_id": "fb2671b061b54468",
         "key": "Airtel5",
-        "expirydate": "10-07-2026",
+        "expirydate": "10-08-2026",
         "Allowoffline": false
     },
 ]
