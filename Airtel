@@ -122,7 +122,7 @@
 {
         "device_id": "84605411e2799b68",
         "key": "d18",
-        "expirydate": "16-07-2026",
+        "expirydate": "16-08-2026",
         "Allowoffline": false
     },
 {
@@ -506,12 +506,6 @@
 {
         "device_id": "fb5793f2d13d6622",
         "key": "d83",
-        "expirydate": "15-08-2026",
-        "Allowoffline": false
-    },
-{
-        "device_id": "84605411e2799b68",
-        "key": "d84",
         "expirydate": "15-08-2026",
         "Allowoffline": false
     }
