@@ -610,6 +610,12 @@
         "key": "d100",
         "expirydate": "30-08-2026",
         "Allowoffline": false
+    },
+{
+        "device_id": "1d89cb47a924226d",
+        "key": "d101",
+        "expirydate": "30-08-2026",
+        "Allowoffline": false
     }
     
 ]
