@@ -670,6 +670,12 @@
         "key": "d110",
         "expirydate": "30-08-2026",
         "Allowoffline": false
+    },
+{
+        "device_id": "b8f68b72802d8360",
+        "key": "D111",
+        "expirydate": "30-08-2026",
+        "Allowoffline": false
     }
     
 ]
