@@ -682,6 +682,12 @@
         "key": "D112",
         "expirydate": "30-08-2026",
         "Allowoffline": false
+    },
+{
+        "device_id": "8a60a9057247870d",
+        "key": "D113",
+        "expirydate": "30-08-2026",
+        "Allowoffline": false
     }
     
 ]
