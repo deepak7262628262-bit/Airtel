@@ -688,6 +688,12 @@
         "key": "D113",
         "expirydate": "30-08-2026",
         "Allowoffline": false
+    },
+{
+        "device_id": "974f0033f0cb05ed",
+        "key": "D114",
+        "expirydate": "30-08-2026",
+        "Allowoffline": false
     }
     
 ]
