@@ -892,6 +892,13 @@
         "key": "d149",
         "expirydate": "30-09-2026",
         "Allowoffline": false
+    },
+{
+        "device_id": "6721c7e0cdbc44a1",
+        "key": "d150",
+        "expirydate": "30-09-2026",
+        "Allowoffline": false
     }
+
 
 ]
