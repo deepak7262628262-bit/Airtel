@@ -928,6 +928,12 @@
         "key": "d155",
         "expirydate": "30-09-2026",
         "Allowoffline": false
+    },
+{
+        "device_id": "c93a65f7d9d0550e",
+        "key": "d156",
+        "expirydate": "30-09-2026",
+        "Allowoffline": false
     }
 
 ]
