@@ -904,6 +904,18 @@
         "key": "d151",
         "expirydate": "30-09-2026",
         "Allowoffline": false
+    },
+{
+        "device_id": "dda2eb6bf70ae808",
+        "key": "d152",
+        "expirydate": "30-09-2026",
+        "Allowoffline": false
+    },
+{
+        "device_id": "369b6de7f4d27aca",
+        "key": "d153",
+        "expirydate": "30-09-2026",
+        "Allowoffline": false
     }
 
 ]
