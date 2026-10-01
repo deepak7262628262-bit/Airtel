@@ -543,7 +543,7 @@
         "device_id": "52ccbc035fe73e1a",
         "key": "d89",
         "expirydate": "28-08-2026",
-        "Allowofline": false
+        "Allowoffline": false
     },
 {
         "device_id": "23a4f945479fc509",
