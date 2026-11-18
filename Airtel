@@ -324,13 +324,13 @@
         "Allowoffline": true
     },
 {
-        "device_id": "ef124990542347b1",
+        "device_id": "ed2627c8a9a6c3c3",
         "key": "d51",
         "expirydate": "22-11-2026",
         "Allowoffline": true
     },
 {
-        "device_id": "ef124990542347b1",
+        "device_id": "e8a0447d0df374ec",
         "key": "d52",
         "expirydate": "30-11-2026",
         "Allowoffline": true
@@ -528,7 +528,7 @@
         "Allowoffline": false
     },
 {
-        "device_id": "5e8519a96a0fd77c",
+        "device_id": "81cc343c5e4c2a6d",
         "key": "d85",
         "expirydate": "30-11-2026",
         "Allowoffline": false
